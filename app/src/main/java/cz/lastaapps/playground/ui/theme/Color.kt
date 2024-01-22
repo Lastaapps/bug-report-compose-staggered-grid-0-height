@@ -1,4 +1,4 @@
-package cz.lastaapps.decompose_page_serialization.ui.theme
+package cz.lastaapps.playground.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

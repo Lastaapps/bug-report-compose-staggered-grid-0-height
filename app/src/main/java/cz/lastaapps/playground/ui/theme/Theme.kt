@@ -1,6 +1,5 @@
-package cz.lastaapps.decompose_page_serialization.ui.theme
+package cz.lastaapps.playground.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

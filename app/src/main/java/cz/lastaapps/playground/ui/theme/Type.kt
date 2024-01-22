@@ -1,4 +1,4 @@
-package cz.lastaapps.decompose_page_serialization.ui.theme
+package cz.lastaapps.playground.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

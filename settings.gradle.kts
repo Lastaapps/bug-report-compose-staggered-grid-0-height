@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "decompose-page-serialization"
+rootProject.name = "playground"
 include(":app")
